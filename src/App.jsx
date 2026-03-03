@@ -2,6 +2,7 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import { Componentesito } from './Componentesito'
+import { Cajita } from './Cajita'
 import './App.css'
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
     <h1>HOLA A TODOS CHICOS MALOS</h1>
     <Componentesito></Componentesito>
     <p>Estamos aprendiendo a usar Docker we</p>
+    <Cajita></Cajita>
       <div>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
