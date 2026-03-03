@@ -9,8 +9,7 @@ function App() {
   return (
     <>
     <h1>HOLA A TODOS CHICOS MALOS</h1>
-    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tempore error cumque voluptatum? Eaque recusandae dolorem magnam, dignissimos similique voluptatem odit perferendis vero eligendi, rerum commodi. Iusto consequuntur maiores voluptates sequi.</p>
-    <h2>Esta funcionando</h2>
+    <p>Estamos aprendiendo a usar Docker we</p>
       <div>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
