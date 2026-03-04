@@ -4,6 +4,7 @@ import viteLogo from '/vite.svg'
 import { Componentesito } from './Componentesito'
 import { Cajita } from './Cajita'
 import './App.css'
+import { Cajita } from './Cajita'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -23,6 +24,7 @@ function App() {
         </a>
       </div>
       <h1>Vite + React</h1>
+      <Cajita></Cajita>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
