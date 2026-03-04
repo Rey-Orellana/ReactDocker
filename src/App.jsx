@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import { Bloque } from './Bloque'
 import './App.css'
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
     <>
     <h1>Este es un componente</h1>
     <p>Este es un parrafo we</p>
+    <Bloque></Bloque>
     </>
   )
 }
