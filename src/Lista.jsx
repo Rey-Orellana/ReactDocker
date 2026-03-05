@@ -13,6 +13,11 @@ export const Lista = () => {
         <li>Jugo</li>
         <li>Papaya</li>
      </ol>
+     <ul>
+      <li>Nacho</li>
+      <li>Taco</li>
+      <li>Chili</li>
+     </ul>
     </>
   )
 }
