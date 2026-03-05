@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import { Bloque } from './Bloque'
+import { Lista } from './Lista'
 import './App.css'
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
     <Bloque></Bloque>
     <a href="https://www.google.com.bo">Enlace</a>
     <Bloque></Bloque>
+    <Lista></Lista>
     </>
   )
 }
