@@ -11,6 +11,7 @@ function App() {
     <p>Este es un parrafo we</p>
     <Bloque></Bloque>
     <a href="https://www.google.com.bo">Enlace</a>
+    <Bloque></Bloque>
     </>
   )
 }
