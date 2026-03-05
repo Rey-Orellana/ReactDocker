@@ -8,6 +8,11 @@ export const Lista = () => {
         <li>Tea</li>
         <li>Milk</li>
      </ul>
+     <ol>
+        <li>Mate</li>
+        <li>Jugo</li>
+        <li>Papaya</li>
+     </ol>
     </>
   )
 }
