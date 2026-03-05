@@ -10,6 +10,7 @@ function App() {
     <h1>Este es un componente</h1>
     <p>Este es un parrafo we</p>
     <Bloque></Bloque>
+    <a href="https://www.google.com.bo">Enlace</a>
     </>
   )
 }
